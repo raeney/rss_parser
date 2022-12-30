@@ -1,0 +1,4 @@
+https://www.pravda.com.ua/rss/view_news/
+https://www.epravda.com.ua/rss/
+https://www.rbc.ua/static/rss/ukrnet.strong.ukr.rss.xml
+https://zaxid.net/rss/all.xml
