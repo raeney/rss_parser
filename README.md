@@ -1,4 +1,4 @@
-# rss
+# rss_parser
 
 
 You can parse rss-feeds with that programm.
